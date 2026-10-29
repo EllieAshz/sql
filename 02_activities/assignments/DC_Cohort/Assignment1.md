@@ -209,5 +209,4 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
-```
+Honestly, coming up with examples are difficult for me. Like a fish being in the see and not knowing where the water is. The only example comes to my mind is the definition of gender being only two options (now is changing), the definition of education means only academic while indeginous knowledge and other forms of knowledge there are no option for them. These are the only two examples that come to my mind at this point.

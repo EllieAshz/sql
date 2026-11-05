@@ -57,7 +57,8 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+Type 1: when customer changes their addres, it is replaced and previous addressed is permenantly removed without any history. In the cosutmer id table we have address.
+Type 2: Retain address histories, so the new row is inserted and previous addresses remains in the table. This method requires another table that has costumer ids and addresses. that can be one to many.
 ```
 
 ***
@@ -193,5 +194,7 @@ Consider, for example, concepts of labour, bias, LLM proliferation, moderating c
 
 
 ```
-Your thoughts...
+I think one of the most interesting points of this article is that artificial intelligence is not as independent as we sometimes think. Behind AI systems, there are many people collecting data, labeling information, and making decisions about what is right or wrong. However, we often don't see or appreciate their work. This raises ethical concerns about fair payment, working conditions, and transparency. For example, people who moderate harmful online content may experience psychological stress, while the companies developing these technologies receive most of the attention and benefits.
+
+Another important issue is bias. AI learns from data created by humans, and since our society is not free from bias, AI can easily repeat or even increase existing inequalities. I also think that as AI becomes more common, we need to be more careful about trusting its results without questioning them. To me, the main message is that technology is not separate from society. It reflects our decisions, values, and sometimes our mistakes. Therefore, developing better AI is not just about improving algorithms, but also about treating people fairly and taking responsibility for how these technologies affect society.
 ```
